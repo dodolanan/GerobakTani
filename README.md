@@ -12,12 +12,6 @@ Clone the project
   git clone https://github.com/dodolanan/GerobakTani.git
 ```
 
-Go to the project directory
-
-```bash
-  cd project-name
-```
-
 -   Copy .env.example file to .env and edit database credentials there
 
 ```bash
